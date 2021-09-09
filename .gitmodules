@@ -1,0 +1,6 @@
+[submodule "clamav-rest"]
+	path = clamav-rest
+	url = https://github.com/makuhama/clamav-rest.git
+[submodule "clamav-java"]
+	path = clamav-java
+	url = https://github.com/makuhama/clamav-java.git
